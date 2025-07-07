@@ -4,3 +4,6 @@ saya mau belajar
 -vscode
 -linux
 -packet treacert
+-gmamg
+-gmsm
+
